@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on The Odin Project
+- 🌱 I’m currently learning Javascript
+- ⚡ Fun fact: I am a huge Japanese Culture Fan: Movies/Martial Arts/Architecture/Anime/Games
+- 📫 How to reach me: Alexander.merab@gmail.com | Social media-Instagram: @alexander_m1986
 
 <!--
 **AlexanderM86/AlexanderM86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
